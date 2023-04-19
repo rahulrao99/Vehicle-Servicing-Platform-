@@ -1,0 +1,92 @@
+Title: System Requirement Specification Document for
+Vehicle servicing platform
+
+Document : System Requirement Specification Document
+
+Title:System Reqruiement Specification for vehicle servicing portal
+
+Team:
+Manager, Mechanical Engineer, Service Advisor, Quality Assurance team, Accountant, Customer Support
+,Technician
+
+Objective:
+The platform aims to provide seamless and convenient experience for vehicle owners to book
+appointment for vehicle services and for service provider to manage their services efficiently and
+productively. Also this system aims to provide transparency to the customer regarding service.
+
+Scope:
+The system allows service providers to add and list services they provide. Vehicle owners will be able to
+access different services and book appointment as per convenience for all the services they required.
+Vehicle owners can access services 24*7. They can track the progress of vehicle servicing.
+
+Functional Requirements:
+
+For user:
+-Any user can see the available services, their prices, reviews given by previous registered customer.
+-For accessing services user need to create profile. For creating profile user need to provide details
+about vehicle and its owner.
+-The system will notify the customer by giving notification about next servicing before 7 days.
+-Registered user can rate and provide feedback on the service. Also he can schedule, cancel or
+reschedule appointments. Registered User will receive notifications about their appointment. Registered
+user can make Online payments or cash payment for their service. Registered user can see Working Status of service. 
+Registered user can see recommended services. User can accept/reject recommended services.
+-System will present dashboard for Customers, Vendors, Suppliers as well as Board of directors.
+
+For manager:
+-Manager can allocate technician for service based on their availability during a given time slot.
+Manager can keep track of resources available at the service center. Manager can update price of
+services and inventory.
+
+For service centre:
+-Service Center will be able to see the details of appointments booked and receive a notification once an
+appointment is booked.
+
+For technician :
+-Technician will be able to view services requested by the customer and work on that accordingly
+solution provided by service advisor .Technician will be able to update progress on the service done.
+
+For service provider:
+-Service advisor will tell the customer about problem and as per problem he will give appropriate
+solution to the customer.
+
+For quality assurance team:
+-Quality assurance team will check quality of service and give final go- ahead for customer to pick up the
+vehicle.
+
+For Accountant team:
+-Accountant team will be able to view , verify payments and raise invoices.
+
+Non-Functional Requirements:
+
+Performance:
+The platform should be able to handle a large number of users and transactions simultaneously without
+experiencing significant delays or downtime.
+
+Availability:
+The platform should be designed to be accessible to users with disabilities, including those who are
+visually impaired, hearing impaired, or have mobility impairments.
+
+Security:
+The platform should have strong security measures in place to protect sensitive data such as customer
+information, payment details, and service records. This could include measures such as encryption, twofactor authentication, and regular security audits.
+
+Usability:
+The platform should be easy to use and navigate, with a clear and intuitive interface that allows users to
+quickly find the information they need and complete tasks efficiently.
+
+Reliability:
+The platform should be reliable and consistently available, with minimal downtime and fast response
+times to user requests.
+
+Scalability: The platform should be able to scale up or down as needed to accommodate changes in user
+demand, without sacrificing performance or reliability.
+
+Compatibility:
+The platform should be compatible with a wide range of devices and operating systems, allowing users
+to access it from desktops, laptops, tablets, and smartphones.
+
+Accessibility: The platform should be designed to be accessible to users with disabilities, including
+those who are visually impaired, hearing impaired, or have mobility impairments.
+
+Maintenance: The platform should be easy to maintain and update, with a clear and well-documented
+codebase and minimal dependencies on external systems.
