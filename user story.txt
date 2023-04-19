@@ -1,0 +1,108 @@
+Case Study:
+	CS1.
+	Who: 
+	    Swati, a college student who owns a used car and needs to get it serviced to ensure it remains reliable for her daily commute.
+		
+           What: 
+	  Swati wants to locate a nearby service provider and book an appointment to get her brakes checked using a vehicle servicing portal application.
+ 
+	Why: 
+	 Swati is new to the area and doesn't know any trusted service providers nearby. She needs to get her brakes checked as she has noticed some unusual noises and vibrations when she applies the brakes. She wants to ensure that her car is safe to drive, especially during her daily commute to college. The vehicle servicing portal application provides Swati with a tool to locate nearby service providers based on their location and ratings. Additionally, she can easily schedule an appointment for the brake check and receive a cost estimate. The service provider locator and appointment scheduling features of the application make it easier for Swati to find and book an appointment with a trusted service provider.
+
+
+
+	CS2
+	Who: 
+	    Vicky, a small business owner who owns a fleet of delivery trucks that require regular maintenance and servicing.
+	
+	
+	What: 
+		Vicky wants to manage the servicing needs of his fleet using a vehicle servicing portal application.
+		
+	Why:
+	 Vicky needs to ensure that his fleet of delivery trucks is operating efficiently and reliably to minimize downtime and maintain customer satisfaction. He wants to use a vehicle servicing portal application to help him manage his fleet’s servicing needs more efficiently. The application provides Vicky with a comprehensive tool to manage his fleet’s service history, schedule appointments, and track upcoming maintenance needs. He can receive notifications when his trucks are due for routine maintenance or require specific repairs, which helps him plan and budget for servicing expenses. The application’s fleet management features also allow Vicky to track the servicing history and costs of each truck, making it easier to maintain accurate records and ensure that each vehicle receives the necessary services on time.
+
+
+
+User Story Example:
+
+	User Experience Of CS1:
+		 Swati has located a service provider for her brake check using the vehicle servicing portal application.When she arrives at the service provider’s location for her scheduled appointment,Then the service provider should have her appointment details on file, and Swati should be able to quickly check in for her appointment using the application. The service provider should also be able to access her vehicle’s service history through the application, making it easier for them to diagnose and address any issues with her brakes.
+	
+	User Experience Of CS2:
+		Vicky has scheduled a routine maintenance check for one of his fleet trucks using the vehicle servicing portal application,When the service provider completes the maintenance check and identifies additional repairs that need to be performed,Then the service provider should update the service record for the truck through the application, and Vicky should receive a notification of the updated service record. The application should also provide Vicky with a cost estimate for the additional repairs, and allow him to approve or reject them before they are performed. Once the repairs are completed, the application should update the service record for the truck with the details of the repairs and their costs.
+
+
+
+Map Of Business Process Flow:
+	1.User creates a profile: 
+		The user creates a profile on the vehicle servicing portal, including personal information and details about their vehicle(s).
+
+	2.User schedules a service: 
+		The user schedules a routine maintenance check or other service for their vehicle(s) through the portal. They select a service provider, date, and time for the appointment.
+
+	3.Service provider confirms appointment:
+		The service provider confirms the appointment and sends a notification to the user.
+
+	4.Service provider conducts inspection: 
+		The service provider conducts a thorough inspection of the vehicle, noting any issues or areas of concern.
+
+	5.Service provider provides recommendations:
+		Based on the inspection, the service provider provides recommendations for repairs or maintenance. This can include an itemized list of recommended services and an estimated cost for each service.
+	
+	6.User approves or rejects recommendations:
+		The user reviews the recommended repairs or maintenance and approves or rejects each item. If approved, the user pays for the services through the portal.
+
+	7.Service provider completes repairs:
+		The service provider completes the approved repairs or maintenance, updating the service record for the vehicle in the portal.
+	
+	8.User receives notification: 
+		The user receives a notification that the repairs or maintenance are complete and can view the updated service record in the portal.
+		
+	9.Payment gateway:
+		The user pays the service charges and gets the receipt of the total bill on the portal.
+
+	10.User provides feedback:
+		The user can provide feedback on the quality of the service and the experience using the portal.
+
+	11.Service provider updates inventory: 
+		If parts or supplies were used during the service, the service provider updates their inventory through the portal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observation and Note taking:
+
+STEP NO.	          ACTOR 	                             ACTIVITY
+1				Anonymous User						Anonymous user can view Services,Prices  and ratings
+2				Anonymous User						User creates a profile
+3				User 								User schedules a service
+4				User								View Working status
+5				User								View recommended services
+6				User								Accept/reject recommended service
+7				Manager								Service provider confirms appointment
+8				Manager								Allocates technician
+9				Quality Assurance					Service provider conducts inspection
+10				Service 							Advisor	Service provider provides recommendations
+11				User								User approves or rejects recommendations
+12				Technician							Service provider completes repairs
+13				Service provider					User receives notification through Service Provider
+14				User								Payment gateway
+15				User	 							User provides feedback
+16				Manager								Service provider updates inventory: 
+ 
+
