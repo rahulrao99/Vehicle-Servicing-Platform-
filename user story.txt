@@ -87,7 +87,7 @@ Map Of Business Process Flow:
 
 Observation and Note taking:
 
-STEP NO.	          ACTOR 	                             ACTIVITY
+STEP NO.	                   ACTOR 	                                                    ACTIVITY
 1				Anonymous User						Anonymous user can view Services,Prices  and ratings
 2				Anonymous User						User creates a profile
 3				User 								User schedules a service
